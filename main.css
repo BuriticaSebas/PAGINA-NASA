@@ -4,8 +4,14 @@ body{
 }
 
 
+
+
 .navbar-brand,.nav-link{
     font-size: 5vh;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
 }
         /* Estilo del contenido de prueba */
    
