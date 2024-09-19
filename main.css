@@ -1,0 +1,11 @@
+body{
+   background-image: url(./img/degradado2.jpeg);
+   background-size: cover;
+}
+
+
+.navbar-brand,.nav-link{
+    font-size: 5vh;
+}
+        /* Estilo del contenido de prueba */
+   
